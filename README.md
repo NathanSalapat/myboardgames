@@ -28,3 +28,5 @@ There is no craft for these. Use /giveme or creative to get the placer block.
 Place the block and right click it. The schematic places to the north east.(+x,+z)
 
 For more information please view the topic on the forum. https://forum.minetest.net/viewtopic.php?f=9&t=13209
+
+This version of the mod has been modified for server use, basically you need to have the myboardgames privilege to place the boards, by default this isn't granted to singleplayer. ~Nathan.S
